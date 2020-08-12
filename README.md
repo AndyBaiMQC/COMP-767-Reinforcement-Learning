@@ -1,7 +1,9 @@
 # COMP-767-Reinforcement-Learning
 Winter 2020 COMP 767 Reinforcement Learning
 
+
 Notebooks Containing Algorithms Implemented
+
 
   Multi-arm Bandits and Dynamic Programming: https://colab.research.google.com/drive/13nmNXWho9nYPhSY7pQ4G8kvMPX1mwFQ5#scrollTo=tj3JQdfmY9s5
   
